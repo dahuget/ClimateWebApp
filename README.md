@@ -1,2 +1,2 @@
 # ClimateWebApp
-a web application created using Mapbox and other modern mapping technologies
+a web map application showing global climate and population information created using Mapbox Studio and Mapbox GL JS
