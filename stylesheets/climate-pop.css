@@ -1,4 +1,4 @@
-/* set font styling and spacing for the page */
+/* Set font styling and spacing for the page */
 body {
   margin: 0;
   padding: 0;
@@ -31,7 +31,7 @@ a {
   color: #2dc4b2;
 }
   
-/* position the map on the page */
+/* Position the map on the page */
 #map {
   position: absolute;
   top: 0;
@@ -39,7 +39,7 @@ a {
   width: 100%;
 }
 
-/* position information console */
+/* Position information console */
 #console {
   position: absolute;
   width: 15rem;
@@ -48,7 +48,7 @@ a {
   background: rgba(255, 255, 255, 0.8);
 }
 
-/* set map overlay (info box and legend) display */
+/* Set map overlay (info box and legend) display */
 .map-overlay {
   position: absolute;
   bottom: 0;
@@ -88,7 +88,7 @@ a {
   margin-right: 0.3125rem;
 }
 
-/* climate classification slider */
+/* Climate classification slider */
 .session {
   margin-bottom: 1.25rem;
 }
@@ -103,13 +103,13 @@ a {
   width: 100%;
 }
 
-/* climate/population radio options */
+/* Climate/population radio options */
 #filters {
   display: inline-flex;
   margin: 0.625rem 0.625rem 0.625rem 0;
 }
 
-/* climate classification colors */
+/* Climate classification colors */
 .colors {
   background: linear-gradient(to right, #c8fda5, #1c920c, #f97b7b, #8f0404, #fce4a1, #fe9501, #2a50f8, #62b5fd, #b5b0b0, #ebeaea);
   margin-bottom: 0.3125rem;
